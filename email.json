@@ -245,40 +245,40 @@
 	},
 	"Tag": {
 		"PUCRS":{
-            "Date":1,
-            "Subject":4056,
-            "Alias":289,
-            "From_email":504,
-            "CC":1023,
-            "Body":5897,
+            "Date":109,
+            "Subject":98,
+            "Alias":43,
+            "From_email":87,
+            "CC":12,
+            "Body":679,
             "From":165        
         },
         "UFRGS":{
-            "Date":1,
-            "Subject":4056,
-            "Alias":289,
-            "From_email":504,
-            "CC":1023,
-            "Body":5897,
+            "Date":3098,
+            "Subject":5978,
+            "Alias":543,
+            "From_email":234,
+            "CC":98,
+            "Body":4059,
             "From":165        
         }, 
         "HP":{
-            "Date":1,
-            "Subject":4056,
-            "Alias":289,
-            "From_email":504,
-            "CC":1023,
-            "Body":5897,
-            "From":165        
+            "Date":312,
+            "Subject":45,
+            "Alias":23,
+            "From_email":8,
+            "CC":32,
+            "Body":1123,
+            "From":32        
         },
         "BOLETOS":{
-            "Date":1,
-            "Subject":4056,
-            "Alias":289,
-            "From_email":504,
-            "CC":1023,
-            "Body":5897,
-            "From":165        
+            "Date":12,
+            "Subject":99,
+            "Alias":12,
+            "From_email":13,
+            "CC":null,
+            "Body":4,
+            "From":19        
         }
 	},
 	"People": {
