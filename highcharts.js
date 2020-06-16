@@ -1,5 +1,5 @@
 Highcharts.getJSON('https://raw.githubusercontent.com/brunaoliveira/vis_email/master/email.json', function (data) {
-
+   
   var points = [],
     filterByP,
     filterByVal,
@@ -62,7 +62,7 @@ Highcharts.getJSON('https://raw.githubusercontent.com/brunaoliveira/vis_email/ma
   Highcharts.chart('container', {
     series: [{
       type: 'treemap',
-      layoutAlgorithm: 'squarified',
+      layoutAlgorithm: 'sliceAndDice',
       allowDrillToNode: true,
       animationLimit: 1000,
       dataLabels: {
@@ -85,5 +85,4 @@ Highcharts.getJSON('https://raw.githubusercontent.com/brunaoliveira/vis_email/ma
       text: 'Email'
     }
   });
-
 });
