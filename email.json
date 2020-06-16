@@ -1,10 +1,9 @@
 {
 	"Caixas": {
 		"Entrada": {
-			"Communicable & other Group I": 102.5,
-			"Injuries": 47,
-			"Noncommunicable diseases": 110.4
-		},
+            "1": {"Date": "2015-08-31T04:00:00+00:00","Subject": "WOW","Alias": "Sullivan, Jacob J","From_email": "Sullivan11@state.gov","CC": null,"Body": null,"From": "Jake Sullivan"},
+            "2": {"Date": "2015-09-31T04:00:00+00:00","Subject": "(AP) SERBIAN ANTI-GAY RIOTS WRONG MESSAGE TO EU","Alias": "Mills, Cheryl D","From_email": "MillsCD@state.gov","CC": null,"Body": "You should discuss Dan's email w\/ S on plane","From": "Cheryl Mills"}
+        },
 		"Saída": { 
             "Communicable & other Group I": 0.2,
 			"Injuries": 0.3,
