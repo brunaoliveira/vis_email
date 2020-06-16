@@ -2,7 +2,7 @@
 Tarefa da cadeira eletiva Visualização de Dados.
 
 ### Obs
-On highcharts.js try different effects, like ```squarified```, ```stripes```, ```strip```:
+On [highcharts.js](https://github.com/brunaoliveira/vis_email/blob/master/highcharts.js) try different effects, like ```squarified```, ```stripes```, ```strip```:
 ```
   Highcharts.chart('container', {
     series: [{
