@@ -1,0 +1,289 @@
+{
+	"Caixas": {
+		"Entrada": {
+			"Communicable & other Group I": 102.5,
+			"Injuries": 47,
+			"Noncommunicable diseases": 110.4
+		},
+		"Saída": { 
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7		
+        },
+		"Lixeira": {
+			"Communicable & other Group I": 3.4,
+			"Injuries": 0.7,
+			"Noncommunicable diseases": 3.1
+		},
+		"Spam": {
+			"Communicable & other Group I": 63.5,
+			"Injuries": 31.6,
+			"Noncommunicable diseases": 476.3
+		},
+		"Arquivo": {
+			"Communicable & other Group I": 30.6,
+			"Injuries": 39.8,
+			"Noncommunicable diseases": 291.5
+		}
+	},
+	"Data": {
+        "Hoje": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Terça": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Segunda": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Domingo": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Sábado": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Sexta": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Quinta": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Semana Passada": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Há um mês": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7},
+        "Longer": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.7}
+	},
+	"Domínio": {
+		"Algeria": {
+			"Communicable & other Group I": 31.5,
+			"Injuries": 19.8,
+			"Noncommunicable diseases": 144.6
+		},
+		"Angola": {
+			"Communicable & other Group I": 210.9,
+			"Injuries": 36.6,
+			"Noncommunicable diseases": 93.9
+		},
+		"Benin": {
+			"Communicable & other Group I": 51.6,
+			"Injuries": 10.3,
+			"Noncommunicable diseases": 36.8
+		},
+		"Botswana": {
+			"Communicable & other Group I": 7.8,
+			"Injuries": 1.3,
+			"Noncommunicable diseases": 6.7
+		},
+		"Burkina Faso": {
+			"Communicable & other Group I": 87.5,
+			"Injuries": 18.3,
+			"Noncommunicable diseases": 51.6
+		},
+		"Burundi": {
+			"Communicable & other Group I": 59.4,
+			"Injuries": 12.6,
+			"Noncommunicable diseases": 32.5
+		},
+		"Cameroon": {
+			"Communicable & other Group I": 134.2,
+			"Injuries": 25.1,
+			"Noncommunicable diseases": 83.9
+		},
+		"Cape Verde": {
+			"Communicable & other Group I": 0.6,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 1.9
+		},
+		"Central African Republic": {
+			"Communicable & other Group I": 40.4,
+			"Injuries": 6.9,
+			"Noncommunicable diseases": 19.9
+		},
+		"Chad": {
+			"Communicable & other Group I": 118.8,
+			"Injuries": 17.3,
+			"Noncommunicable diseases": 45
+		},
+		"Comoros": {
+			"Communicable & other Group I": 2.8,
+			"Injuries": 0.7,
+			"Noncommunicable diseases": 2.4
+		}
+	},
+	"Tag": {
+		"PUCRS":{
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+        },
+        "UFRGS":{
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+        }, 
+        "HP":{
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+        },
+        "BOLETOS":{
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+        }
+	},
+	"People": {
+		"Australia": {
+			"Communicable & other Group I": 7.2,
+			"Injuries": 8.8,
+			"Noncommunicable diseases": 137
+		},
+		"Brunei Darussalam": {
+			"Communicable & other Group I": 0.2,
+			"Injuries": 0.1,
+			"Noncommunicable diseases": 1.2
+		},
+		"Cambodia": {
+			"Communicable & other Group I": 26.4,
+			"Injuries": 9.8,
+			"Noncommunicable diseases": 57.4
+		},
+		"China": {
+			"Communicable & other Group I": 423,
+			"Injuries": 696.3,
+			"Noncommunicable diseases": 8792
+		},
+		"Fiji": {
+			"Communicable & other Group I": 0.7,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 5.3
+		},
+		"Japan": {
+			"Communicable & other Group I": 169,
+			"Injuries": 69.6,
+			"Noncommunicable diseases": 1071.7
+		},
+		"Kiribati": {
+			"Communicable & other Group I": 0.2,
+			"Injuries": 0.1,
+			"Noncommunicable diseases": 0.5
+		},
+		"Lao People's Democratic Republic": {
+			"Communicable & other Group I": 16.5,
+			"Injuries": 4.7,
+			"Noncommunicable diseases": 26
+		},
+		"Malaysia": {
+			"Communicable & other Group I": 30,
+			"Injuries": 13.6,
+			"Noncommunicable diseases": 107.5
+		},
+		"Micronesia (Federated States of)": {
+			"Communicable & other Group I": 0.1,
+			"Injuries": 0,
+			"Noncommunicable diseases": 0.5
+		},
+		"Mongolia": {
+			"Communicable & other Group I": 2,
+			"Injuries": 2.4,
+			"Noncommunicable diseases": 15.4
+		},
+		"New Zealand": {
+			"Communicable & other Group I": 1.3,
+			"Injuries": 1.8,
+			"Noncommunicable diseases": 27.4
+		},
+		"Papua New Guinea": {
+			"Communicable & other Group I": 19.8,
+			"Injuries": 5.7,
+			"Noncommunicable diseases": 32.3
+		},
+		"Philippines": {
+			"Communicable & other Group I": 169.2,
+			"Injuries": 43.5,
+			"Noncommunicable diseases": 458
+		},
+		"Republic of Korea": {
+			"Communicable & other Group I": 27.1,
+			"Injuries": 31.5,
+			"Noncommunicable diseases": 220.4
+		},
+		"Samoa": {
+			"Communicable & other Group I": 0.1,
+			"Injuries": 0.1,
+			"Noncommunicable diseases": 0.8
+		},
+		"Singapore": {
+			"Communicable & other Group I": 5.7,
+			"Injuries": 1.2,
+			"Noncommunicable diseases": 20.4
+		},
+		"Solomon Islands": {
+			"Communicable & other Group I": 0.7,
+			"Injuries": 0.3,
+			"Noncommunicable diseases": 2.1
+		},
+		"Tonga": {
+			"Communicable & other Group I": 0.1,
+			"Injuries": 0,
+			"Noncommunicable diseases": 0.5
+		},
+		"Vanuatu": {
+			"Communicable & other Group I": 0.2,
+			"Injuries": 0.1,
+			"Noncommunicable diseases": 0.9
+		},
+		"Viet Nam": {
+			"Communicable & other Group I": 70.5,
+			"Injuries": 60.2,
+			"Noncommunicable diseases": 411.9
+		}
+	},
+	"Not read time": {
+		"One day": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+		},
+		"Few days": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+		},
+		"One week": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+		},
+		"15 days": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+		},
+		"One month": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+		},
+		"More": {
+            "Communicable & other Group I": 0.2,
+			"Injuries": 0.3,
+            "Noncommunicable diseases": 2.7
+		}
+	}
+}
