@@ -1,5 +1,5 @@
 # vis_email
-Tarefa da cadeira eletiva Visualização de Dados.
+Tarefa da cadeira eletiva Visualização de Dados do curso de Ciência da Computação da UFRGS.
 
 https://codepen.io/brunaoliveira/pen/VweKNwa
 
